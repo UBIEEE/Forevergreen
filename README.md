@@ -1,0 +1,1 @@
+ Forevergreen is a Django web application designed for interfacing with the University at Buffalo IEEE Student Chapter Automated Greenhouse. 
